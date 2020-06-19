@@ -5,5 +5,5 @@ https://www.octopuslab.cz/edu-kit1/
 
 ---
 
-Dokumentace na knihovny se připravuje.
+Dokumentace pro knihovny se připravuje.
 https://docs.octopuslab.cz/
